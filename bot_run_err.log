@@ -1,0 +1,18 @@
+Unable to connect due to network issues: Connection timed out
+Unable to connect due to network issues: Connection timed out
+Connection failed: OSError [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Connection failed: OSError [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Connection failed: OSError [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Connection failed: OSError [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+Unable to connect due to network issues: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+[1] Retrying "updates.GetState" due to: Request timed out
+Send failed: ConnectionResetError Connection lost
+Send failed: ConnectionResetError Connection lost
+Connection failed: FileNotFoundError [WinError 53] The network path was not found
+Unable to connect due to network issues: [WinError 53] The network path was not found
+Connection failed: FileNotFoundError [WinError 53] The network path was not found
+Unable to connect due to network issues: [WinError 53] The network path was not found
+[2] Retrying "updates.GetState" due to: Request timed out

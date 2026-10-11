@@ -1,0 +1,7 @@
+# Telegram voice-chat streaming stack
+# py-tgcalls pulls in ntgcalls + aiohttp. NOTE: its [pyrogram] extra installs
+# the abandoned upstream pyrogram, so kurigram (maintained fork, supports
+# <tg-emoji> custom emoji) is installed explicitly instead.
+py-tgcalls==2.3.3
+kurigram>=2.2.25
+tgcrypto-pyrofork
